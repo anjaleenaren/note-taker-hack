@@ -2,6 +2,9 @@
 
 Class Notes Manager is an advanced, AI-powered note-taking application designed for students and educators. It provides a seamless interface for creating, managing, and interacting with class notes, leveraging cutting-edge AI technologies for enhanced learning experiences.
 
+## Demo Video
+https://youtu.be/9lq5EYNBNLg
+
 ## Features
 
 1. **User Authentication**: Secure login system to protect user data and provide personalized experiences.
