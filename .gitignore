@@ -1,0 +1,7 @@
+.venv/
+.DS_Store
+.env
+__pycache__/
+__pycache__/*.pyc
+*.pyc
+class_notes.db

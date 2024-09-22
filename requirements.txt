@@ -8,4 +8,7 @@ PyPDF2
 pdf2image
 python-pptx
 openai-whisper
-
+pyyaml
+openai
+llama-index
+streamlit_authenticator
